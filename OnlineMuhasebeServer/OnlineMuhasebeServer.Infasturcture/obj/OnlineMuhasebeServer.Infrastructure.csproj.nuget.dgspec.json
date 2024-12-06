@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj": {}
+    "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj": {
+    "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj",
-        "projectName": "OnlineMuhasebeServer.Application",
-        "projectPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infrastructure.csproj",
+        "projectName": "OnlineMuhasebeServer.Infrastructure",
+        "projectPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Kutay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\obj\\",
+        "outputPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -52,10 +52,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[12.4.1, )"
-            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"

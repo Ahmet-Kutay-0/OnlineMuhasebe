@@ -821,9 +821,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infasturcture.csproj",
-      "projectName": "OnlineMuhasebeServer.Infasturcture",
-      "projectPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infasturcture.csproj",
+      "projectUniqueName": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infrastructure.csproj",
+      "projectName": "OnlineMuhasebeServer.Infrastructure",
+      "projectPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\OnlineMuhasebeServer.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kutay\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Infasturcture\\obj\\",
       "projectStyle": "PackageReference",
