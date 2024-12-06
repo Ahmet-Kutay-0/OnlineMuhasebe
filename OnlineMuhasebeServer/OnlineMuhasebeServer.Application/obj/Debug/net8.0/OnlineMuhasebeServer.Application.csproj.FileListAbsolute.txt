@@ -1,0 +1,12 @@
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Application.deps.json
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.AssemblyInfoInputs.cache
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.AssemblyInfo.cs
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Application.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Application.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net8.0\OnlineMuhasebeServer.Application.csproj.AssemblyReference.cache

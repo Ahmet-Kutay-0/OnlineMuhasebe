@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X6yfQxlZ46YouH/zQrUYZ8LzECe91n/jPFBSkjWUyNI=",
+  "Source": "OnlineMuhasebeServer.WebApi",
+  "BasePath": "_content/OnlineMuhasebeServer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
