@@ -156,3 +156,4 @@ C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.pdb
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.genruntimeconfig.cache
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\ref\OnlineMuhasebeServer.WebApi.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.WebApi\obj\Debug\net8.0\OnlineMuhasebeServer.WebApi.sourcelink.json

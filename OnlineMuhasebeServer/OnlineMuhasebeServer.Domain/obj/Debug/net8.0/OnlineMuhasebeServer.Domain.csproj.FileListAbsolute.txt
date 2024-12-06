@@ -10,3 +10,4 @@ C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Domain.dll
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net8.0\OnlineMuhasebeServer.Domain.pdb
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Domain.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net8.0\OnlineMuhasebeServer.Domain.sourcelink.json

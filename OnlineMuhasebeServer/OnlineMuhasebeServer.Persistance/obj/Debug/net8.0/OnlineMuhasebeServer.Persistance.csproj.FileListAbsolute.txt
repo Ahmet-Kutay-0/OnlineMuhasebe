@@ -13,3 +13,4 @@ C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net8.0\refint\OnlineMuhasebeServer.Persistance.dll
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net8.0\OnlineMuhasebeServer.Persistance.pdb
 C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net8.0\ref\OnlineMuhasebeServer.Persistance.dll
+C:\Users\Kutay\Desktop\OnlineMuhasebe\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistance\obj\Debug\net8.0\OnlineMuhasebeServer.Persistance.sourcelink.json
